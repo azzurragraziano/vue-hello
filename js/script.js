@@ -7,7 +7,8 @@ var app = new Vue(
     {
         el: '#root',
         data: {
-            title: 'vue hello!'
+            title: 'vue hello!',
+            image: "https://unsplash.it/600/400?image=534"
         }
     }
 );
